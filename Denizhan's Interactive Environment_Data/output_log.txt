@@ -1,0 +1,62 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 5670 (ID=0x68d8)
+    Vendor:   ATI
+    VRAM:     1010 MB
+    Driver:   15.201.1151.1008
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\balan\Desktop\Denizhan's Interactive Environment_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\balan\Desktop\Denizhan's Interactive Environment_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\balan\Desktop\Denizhan's Interactive Environment_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\balan\Desktop\Denizhan's Interactive Environment_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\balan\Desktop\Denizhan's Interactive Environment_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\balan\Desktop\Denizhan's Interactive Environment_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\balan\Desktop\Denizhan's Interactive Environment_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\balan\Desktop\Denizhan's Interactive Environment_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\balan\Desktop\Denizhan's Interactive Environment_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\balan\Desktop\Denizhan's Interactive Environment_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\balan\Desktop\Denizhan's Interactive Environment_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\balan\Desktop\Denizhan's Interactive Environment_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\balan\Desktop\Denizhan's Interactive Environment_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Users\balan\Desktop\Denizhan's Interactive Environment_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+- Completed reload, in  0.141 seconds
+Platform assembly: C:\Users\balan\Desktop\Denizhan's Interactive Environment_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\balan\Desktop\Denizhan's Interactive Environment_Data\Managed\System.dll (this message is harmless)
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Compositor failed to initialize.Compositor failed to initialize.UnloadTime: 3.519000 ms
+Failed to load 'C:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Plugins/KinectUnityAddin.dll' with error 'Belirtilen modül bulunamadı.
+'.
+ 
+(Filename:  Line: 187)
+
+Fallback handler could not load library C:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Mono/.\C:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Plugins/KinectUnityAddin.dll
+Fallback handler could not load library C:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Mono/.\C:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Plugins/KinectUnityAddin
+Fallback handler could not load library C:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Mono/libC:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Plugins/KinectUnityAddin.dll
+Fallback handler could not load library C:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Mono/.\libC:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Plugins/KinectUnityAddin.dll
+Fallback handler could not load library C:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Mono/libC:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Plugins/KinectUnityAddin.dll
+Failed to load 'C:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Plugins/KinectUnityAddin.dll' with error 'Belirtilen modül bulunamadı.
+'.
+ 
+(Filename:  Line: 187)
+
+Fallback handler could not load library C:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Mono/.\C:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Plugins/KinectUnityAddin.dll
+Fallback handler could not load library C:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Mono/.\C:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Plugins/KinectUnityAddin
+Fallback handler could not load library C:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Mono/libC:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Plugins/KinectUnityAddin.dll
+Fallback handler could not load library C:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Mono/.\libC:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Plugins/KinectUnityAddin.dll
+Fallback handler could not load library C:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Mono/libC:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Plugins/KinectUnityAddin.dll
+DllNotFoundException: C:/Users/balan/Desktop/Denizhan's Interactive Environment_Data/Plugins/KinectUnityAddin.dll
+  at (wrapper managed-to-native) Windows.Kinect.KinectSensor:Windows_Kinect_KinectSensor_GetDefault ()
+  at Windows.Kinect.KinectSensor.GetDefault () [0x00000] in <filename unknown>:0 
+  at KinectVeriYoneticisi.KinectBaslatma () [0x00000] in <filename unknown>:0 
+  at KinectVeriYoneticisi.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3238 -> priority: 1 
