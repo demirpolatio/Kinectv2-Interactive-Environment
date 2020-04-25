@@ -3,9 +3,11 @@ This application was about creating a 3D Interactive Environment with Kinect v2 
 
 Screenshots:
 
+![Image description](https://raw.githubusercontent.com/dhd94/Kinectv2-Interactive-Environment/master/sceneview.jpg)
+
 ![Image description](https://raw.githubusercontent.com/dhd94/Kinectv2-Interactive-Environment/master/enter.jpg)
 
 ![Image description](https://raw.githubusercontent.com/dhd94/Kinectv2-Interactive-Environment/master/gameplay.jpg)
 
-![Image description](https://raw.githubusercontent.com/dhd94/Kinectv2-Interactive-Environment/master/sceneview.jpg)
+
 
